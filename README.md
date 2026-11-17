@@ -2,3 +2,7 @@
 ## It doesn't contain anything interesting yet
 
 Some text
+
+---
+
+Some more text
