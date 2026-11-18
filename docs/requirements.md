@@ -4,3 +4,4 @@ The system should allow auto-log-out users after a configurable period of inacti
 More requirements here
 More requirements here
 Non-functional requirement
+Security and logon requirement
