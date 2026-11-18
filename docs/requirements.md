@@ -5,3 +5,4 @@ More requirements here
 More requirements here
 Non-functional requirement
 Security and logon requirement
+The system should have a greeting on the home page
